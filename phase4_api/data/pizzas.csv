@@ -1,0 +1,20 @@
+name,dough,sauce,toppings,preparation,cooking,temperature,time
+Margherita,Basic dough,Tomato sauce,"Mozzarella, Basil","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,12
+Pepperoni,Basic dough,Tomato sauce,"Mozzarella, Pepperoni","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,12
+BBQ Chicken,Basic dough,BBQ sauce,"Mozzarella, Chicken, Red Onion, Cilantro","Spread BBQ sauce, add toppings.","Bake for 12-15 minutes.",230,14
+Vegetarian,Basic dough,Tomato sauce,"Mozzarella, Bell Peppers, Onions, Olives, Mushrooms","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,11
+Hawaiian,Basic dough,Tomato sauce,"Mozzarella, Ham, Pineapple","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,12
+Supreme,Basic dough,Tomato sauce,"Mozzarella, Pepperoni, Sausage, Bell Peppers, Onions, Olives, Mushrooms","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,12
+Meat Lover's,Basic dough,Tomato sauce,"Mozzarella, Pepperoni, Sausage, Bacon, Meatballs","Roll out dough, spread sauce, add toppings.","Bake for 12-14 minutes.",225,13
+Mushroom & Truffle,Basic dough,Truffle sauce,"Mozzarella, Mushrooms, Parmesan, Truffle oil","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,10
+Four Cheese,Basic dough,Alfredo sauce,"Mozzarella, Parmesan, Gorgonzola, Ricotta","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,11
+Spinach & Artichoke,Basic dough,Alfredo sauce,"Mozzarella, Spinach, Artichoke hearts, Parmesan","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,12
+Buffalo Chicken,Basic dough,Buffalo sauce,"Mozzarella, Chicken, Red Onion, Blue cheese","Spread Buffalo sauce, add toppings.","Bake for 12-14 minutes.",225,13
+Pesto & Chicken,Basic dough,Pesto sauce,"Mozzarella, Chicken, Sun-dried tomatoes, Pine nuts","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,10
+Greek,Basic dough,Olive oil,"Mozzarella, Feta cheese, Red Onion, Kalamata olives, Spinach","Drizzle olive oil, add toppings.","Bake for 12-15 minutes.",230,14
+Margherita Romana,Basic dough,Tomato sauce,"Mozzarella di Bufala, Cherry tomatoes, Fresh basil","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,12
+Capricciosa,Basic dough,Tomato sauce,"Mozzarella, Ham, Artichokes, Mushrooms, Black olives","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,12
+BBQ Bacon,Basic dough,BBQ sauce,"Mozzarella, Bacon, Red Onion, Cilantro","Spread BBQ sauce, add toppings.","Bake for 12-15 minutes.",230,14
+Spicy Sausage,Basic dough,Tomato sauce,"Mozzarella, Spicy Italian sausage, Jalapenos, Red Onion","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,11
+White Pizza,Basic dough,Alfredo sauce,"Mozzarella, Ricotta, Garlic, Fresh basil","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,12
+Prosciutto & Arugula,Basic dough,Olive oil,"Mozzarella, Prosciutto, Arugula, Parmesan","Drizzle olive oil, add toppings.","Bake for 10-12 minutes.",220,12
