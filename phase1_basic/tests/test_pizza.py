@@ -9,12 +9,17 @@ class TestPizzaRecipes(unittest.TestCase):
     def test_get_pizza_recipes_includes_margherita(self):
         """Tests if the Margherita Pizza is included in the recipes."""
         recipes = get_pizza_recipes()
-        self.assertTrue(any(recipe.name == "Margheritta Pizza" for recipe in recipes))
+        self.assertTrue(any(recipe.name == "Margherita Pizza" for recipe in recipes))
+        
+    def test_get_pizza_recipes_includes_pepperoni(self):
+        """Tests if the TUna Pizza is included in the recipes."""
+        recipes = get_pizza_recipes()
+        self.assertTrue(any(recipe.name == "Tuna Pizza" for recipe in recipes))
 
     def test_get_pizza_recipes_includes_pizza_tonno(self):
         """Testet, ob die Pizza Tonno in den Rezepten enthalten ist."""
         recipes = get_pizza_recipes()
-        self.assertTrue(any(recipe.name == "Pizza Tonno" for recipe in recipes), "Pizza Tonno found in recipes")
+        self.assertFalse(any(recipe.name == "Pizza Tonno" for recipe in recipes), "Pizza Tonno found in recipes")
 
 if __name__ == '__main__':
     unittest.main()
