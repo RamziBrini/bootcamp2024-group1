@@ -15,9 +15,15 @@ margherita = PizzaRecipe(
     instructions="1. Prepare the dough.\n2. Spread tomato sauce on the dough.\n3. Add mozzarella cheese.\n4. Bake at 250°C for 10-15 minutes.\n5. Garnish with basil leaves."
 )
 
+tuna = PizzaRecipe(
+    name="Tuna Pizza",
+    ingredients=["Dough", "Tomato Sauce", "Mozzarella Cheese", "Basil", "Tuna"],
+    instructions="1. Prepare the dough.\n2. Put Tuna on the dough.\n3. Add mozzarella cheese.\n4. Bake at 250°C for 10-15 minutes.\n5. Garnish with basil leaves."
+)
+
 # Function to get all hardcoded recipes
 def get_pizza_recipes():
-    return [margherita]
+    return [margherita, tuna]
 
 def main():
     recipes = get_pizza_recipes()
