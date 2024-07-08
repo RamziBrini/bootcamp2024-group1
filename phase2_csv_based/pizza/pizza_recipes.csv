@@ -1,3 +1,4 @@
 name,dough,sauce,toppings,preparation,cooking,temperature,time
-Margherita,Basic dough,Tomato sauce,"Mozzarella, Basil","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,12
-Pepperoni,Basic dough,Tomato sauce,"Mozzarella, Pepperoni","Roll out dough, spread sauce, add toppings.","Bake for 10-12 minutes.",220,12
+Margherita,Basic dough,Tomato sauce,"Mozzarella, Basil","Roll out dough, spread sauce, add toppings.",Bake for 10-12 minutes.,220,12
+Pepperoni,Basic dough,Tomato sauce,"Mozzarella, Pepperoni","Roll out dough, spread sauce, add toppings.",Bake for 10-12 minutes.,220,12
+Tuna,Basic dough,Tomato sauce,"Mozzarella, Tuna","Roll out dough, spread sauce, add toppings.",Bake for 10-12 minutes.,220,12
